@@ -3,25 +3,33 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <strong>Graduate Student at <a href="https://bse.eu">Barcelona School of Economics</a> <small>Specialised Economic Analysis: Macroeconomic Policy and Financial Markets Programme</small>
+  <br>
+  <strong>Professional Translator</strong> <small>IELTS-A 8.5, JLPT N2, HSK 3, CPNL A2</small>
+  <br>
+  <small>GRE General 170Q 164V 4.5AW</small>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo-73_73.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>julber(dot)osio (at) bse(dot)eu</p>
+    <p>Barcelona, Catalunya</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<h3>Mabuhay!</h3>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+As a research analyst with 8+ years of experience in data analytics, data science and financial research, I combine quantitative and qualitative analyses to draw conclusions from raw data and help clients make fact-based business and investment decisions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I pioneered the expansion of S&P Global's global wireless research coverage in Asia-Pacific. My research coverage include regulatory and policymaking, industry projections (MNO/MVNO, 5G, towers and small cells) and consumer surveys.
+
+My research has been cited by some of Asia-Pacific's leading financial publications. I have also been invited as a speaker in several international wireless industry conferences.
+
+Apart from being a research analyst, I also do freelance professional translations. I also enjoy travelling. I have been to 27 countries and territories in Africa, Asia and Europe. I also do amateur photography during my travels.
