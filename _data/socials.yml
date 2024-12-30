@@ -13,7 +13,7 @@ email: julberosio@yahoo.com # your email address
 # github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id:  # Inspire HEP author ID
+# inspirehep_id:  # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
@@ -29,7 +29,7 @@ linkedin_username: julberosio # your LinkedIn user name
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: false # set to true to show the RSS icon
+# rss_icon: false # set to true to show the RSS icon
 scholar_userid: _AMrtWAAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -45,7 +45,7 @@ work_url: https://www.spglobal.com/en/who-we-are/about-sp-global/our-people/julb
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo:  # can be png, svg, jpg
-  title:
-  url: 
+#custom_social: # can be any name here other than the ones already defined above
+  #logo:  # can be png, svg, jpg
+  #title:
+  #url: 
