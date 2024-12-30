@@ -4,9 +4,9 @@ layout: about
 title: sobre
 permalink: /
 subtitle: >
-  <strong>Estudiante de Postgrado en <a href="https://bse.eu">Barcelona School of Economics</a> <small>Análisis Económico Especializado: Programa de Política Macroeconómica y Mercados Financieros</small>
+  <strong>Estudiant de Postgrau a <a href="https://bse.eu">Barcelona School of Economics</a> <small>Anàlisi Econòmica Especialitzada: Programa de Política Macroeconòmica i Mercats Financers</small>
   <br>
-  <strong>Traductor Profesional</strong> <small>IELTS-A 8.5, JLPT N2, HSK 3, CPNL A2</small>
+  <strong>Traductor Professional</strong> <small>IELTS-A 8.5, JLPT N2, HSK 3, CPNL A2</small>
   <br>
   <small>GRE General 170Q 164V 4.5AW</small>
 
@@ -23,12 +23,12 @@ social: true # includes social icons at the bottom of the page
 
 <h3>Mabuhay!</h3>
 
-Soy Julber, economista, científico de datos y analista financiero con una mentalidad global y pasión por descubrir las historias que pueden contar los datos. Titulado por la Universidad de Londres y la Barcelona School of Economics, estoy especializado en econometría, aprendizaje automático y tecnología financiera, y combino la precisión analítica con la visión estratégica.
+Sóc Julber, economista, científic de dades i analista financer amb una mentalitat global i passió per descobrir les històries que poden explicar les dades. Titulat per la Universitat de Londres i la Barcelona School of Economics, estic especialitzat en econometria, aprenentatge automàtic i tecnologia financera, i va combinar la precisió analítica amb la visió estratègica.
 
-Mis intereses de investigación se centran en la política macroeconómica, los mercados financieros y la dinámica de los sistemas económicos mundiales. Me fascina especialmente el uso de técnicas de ciencia de datos, como la previsión de series temporales y el aprendizaje automático, para comprender el comportamiento de los mercados, las tendencias económicas y el impacto de los cambios políticos. Ya sea desarrollando modelos dinámicos de asignación de activos, analizando datos financieros o pronosticando cambios macroeconómicos, me esfuerzo por crear ideas que informen la toma de decisiones y anticipen los retos futuros.
+Els meus interessos de recerca se centren en la política macroeconòmica, els mercats financers i la dinàmica dels sistemes econòmics mundials. Em fascina especialment l'ús de tècniques de ciència de dades, com ara la previsió de sèries temporals i l'aprenentatge automàtic, per comprendre el comportament dels mercats, les tendències econòmiques i l'impacte dels canvis polítics. Ja sigui desenvolupant models dinàmics d'assignació d'actius, analitzant dades financeres o pronosticant canvis macroeconòmics, m'esforço per crear idees que informin la presa de decisions i anticipin els reptes futurs.
 
-Profesionalmente, he construido mi carrera sobre el uso de la investigación para transformar los datos en percepciones procesables. En mis más de nueve años de estancia en S&P Global, he sido autor de informes de investigación, ponente en conferencias internacionales y he proporcionado análisis en profundidad sobre el sector TMT de los mercados de Asia-Pacífico para nuestros clientes.
+Professionalment he construït la meva carrera sobre l'ús de la investigació per transformar les dades en percepcions processables. En els meus més de nou anys d'estada a S&P Global, he estat autor d'informes de recerca, ponent a conferències internacionals i he proporcionat anàlisis en profunditat sobre el sector TMT dels mercats d'Àsia-Pacífic per als nostres clients.
 
-Más allá de mi vida profesional, cuento historias de otras maneras. Como traductor autónomo, tiendo puentes entre culturas a través del lenguaje, aprovechando mi dominio del tagalo, el inglés, el japonés y el español, entre otros idiomas. Como ávido viajero, he explorado más de 30 países y territorios, y cada viaje ha alimentado mi curiosidad e inspirado mi objetivo como fotógrafa aficionada.
+Més enllà de la meva vida professional, explico històries d'altres maneres. Com a traductor autònom, tendeixo ponts entre cultures a través del llenguatge, aprofitant el meu domini del tagal, l'anglès, el japonès i l'espanyol, entre altres idiomes. Com a àvid viatger, he explorat més de 30 països i territoris, i cada viatge ha alimentat la meva curiositat i inspirat el meu objectiu com a fotògrafa aficionada.
 
-Explora, conecta y creemos algo extraordinario juntos.
+Explora, connecta i creiem una cosa extraordinària junts.

@@ -2,7 +2,7 @@
 page_id: repositories
 layout: page
 permalink: /repositories/
-title: repositorios
+title: repositoris
 description:
 nav: true
 nav_order: 4
@@ -10,7 +10,7 @@ nav_order: 4
 
 {% if site.data.repositories.github_users %}
 
-## Usuarios de GitHub
+## Usuaris de GitHub
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
@@ -38,7 +38,7 @@ nav_order: 4
 
 {% if site.data.repositories.github_repos %}
 
-## Repositorios de GitHub
+## Repositoris de GitHub
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
