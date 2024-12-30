@@ -1,101 +1,211 @@
-- title: Informações Gerais
+- title: Experiencias profesionales en investigación
+  type: time_table
+  contents:
+    - title: Analista de investigación
+      institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
+      department: Tecnología, Medios y Telecomunicaciones
+      year: jun 2022 - ago 2024
+
+    - title: Analista de investigación asociado
+      institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
+      department: Tecnología, Medios y Telecomunicaciones
+      year: sep 2019 - nov 2021
+
+    - title: Investigador asociado
+      institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
+      department: Tecnología, Medios y Telecomunicaciones
+      year: ene 2017 - ago 2019
+
+- title: Otras experiencias profesionales
+  type: time_table
+  contents:
+    - title: Traductor profesional
+      institution: Autónomo
+      year: mar 2018 - actual
+
+    - title: Gestor de productos
+      institution: S&P Global (<a href"https://www.spglobal.com/en/">S&P</a>)
+      department: Banca de Inversión y Capital Riesgo
+      year: nov 2021 - jun 2022
+
+    - title: Analista de operaciones de productos
+      institution: S&P Global (<a href"https://www.spglobal.com/en/">S&P</a>)
+      department: Instituciones financieras
+      year: may 2015 - ene 2017
+
+    - title: Becario Power Camp
+      institution: Manila Electric Company (<a href"https://www.meralco.com.ph">MERALCO</a>)
+      year: abr 2014 - may 2014
+
+- title: Habilidades
+  type: list_groups
+  contents:
+    - category: Lenguajes de programación y marcación
+      icon: fas fa-code
+      items:
+        - name: Python
+          level: Nivel profesional.
+        - name: SQL
+          level: Nivel intermedio.
+        - name: R
+          level: Nivel básico.
+        - name: VBA
+          level: Nivel básico.
+        - name: LaTeX
+          level: Advanced level.
+        - name: HTML
+          level: Nivel intermedio.
+    - category: Programas informáticos
+      icon: fas fa-window-maximize
+      items:
+        - name: Microsoft Excel
+          level: Nivel profesional.
+        - name: Microsoft Office Suite
+          level: Nivel profesional.
+        - name: Adobe Creative Suite
+          level: Nivel intermedio.
+        - name: MATLAB
+          level: Nivel intermedio.
+        - name: Stata
+          level: Nivel intermedio.
+        - name: SPSS/PSPP
+          level: Nivel intermedio.
+        - name: Salesforce
+          level: Nivel profesional.
+        - name: S&P Capital IQ Pro
+          level: Nivel profesional.
+    - category: Marcos de aprendizaje automático
+      icon: fas fa-microchip
+      items:
+        - name: Sci-kit learn
+          level: Advanced level.
+        - name: NLTK
+          level: Advanced level.
+        - name: Keras
+          level: Nivel intermedio.
+        - name: TensorFlow
+          level: Nivel intermedio.
+        - name: Spark MLlib
+          level: Nivel intermedio.
+    - category: Marcos de big data
+      icon: fas fa-desktop
+      items:
+        - name: Hadoop MapReduce
+          level: Nivel intermedio.
+        - name: Apache Spark
+          level: Nivel intermedio.
+    - category: Idiomas
+      icon: fas fa-book
+      items:
+        - name: Tagalo
+          level: Dominio nativo.
+        - name: Inglés
+          level: Dominio profesional. IELTS-A 8.5.
+        - name: Castellano
+          level: Dominio intermedio. B2 level.
+        - name: Japonés
+          level: Dominio intermedio. JLPT N2.
+        - name: Chino mandarín
+          level: Dominio intermedio. HSK Level 3.
+        - name: Catalán
+          level: Dominio básico. CPNL Bàsic 3 (A2).
+        - name: Chino hokkien
+          level: Dominio básico. A1 level.
+
+- title: Formación
+  type: time_table
+  contents:
+    - title: Máster Universitario en Análisis Económico Especializado, Programa de Política Macroeconómica y Mercados Financieros
+      institution: Barcelona School of Economics (<a href="https://bse.eu"><b>BSE</b></a>)
+      year: current
+      maindescription:
+        "Título otorgado conjuntamente por la Universitat Autònoma de Barcelona y la Universitat Pompeu Fabra."
+    - title: Máster en Ciencia de Datos y Tecnología Financiera
+      institution: Universidad de Londres (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
+      year: 2023
+      maindescription:
+        "Graduado con matrícula de honor."
+
+    - title: Chartered Financial Analyst (CFA)
+      institution: <a href"https://www.cfainstitute.org">CFA Institute</a>
+      year: 2022
+
+    - title: Licenciatura en Ingeniería de Gestión
+      institution: Universidad Ateneo de Manila (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2015
+      maindescription:
+        "Programa de matrícula de honor. Graduado cum laude (con matrícula de honor)."
+
+    - title: Diploma de Estudios Japoneses
+      institution: Universidad Ateneo de Manila (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2015
+
+- title: Certificationes
+  type: time_table
+  contents:
+    - title: Certificat de nivell bàsic de català (A2)
+      institution: <a href"https://www.cpnl.cat">Consorci per a la Normalització Lingüística</a>
+      year: 2024
+
+    - title: Examen Oficial de Nivel de Lengua Japonesa (JLPT), N2
+      institution: <a href"https://jfmo.org.ph">Fundación Japón</a>
+      year: 2024
+
+    - title: Graduate Record Examination (GRE) General Test (170Q, 164V, 4.5AW)
+      institution: <a href"https://www.britishcouncil.org">British Council</a>
+      year: 2023
+
+    - title: International English Language Testing System (IELTS), Academic Module Band 8.5
+      institution: <a href"https://www.britishcouncil.org">British Council</a>
+      year: 2023
+
+    - title: Hanyu Shuiping Kaoshi (HSK), Level 3
+      institution: Hanban Instituto Confucio
+      year: 2019
+
+    - title: International English Language Testing System (IELTS), Academic Module Band 8.0
+      institution: <a href"https://www.britishcouncil.org">British Council</a>
+      year: 2018
+
+    - title: Examen Oficial de Nivel de Lengua Japonesa (JLPT), N3
+      institution: <a href"https://jfmo.org.ph">Fundación Japón</a>
+      year: 2015
+
+    - title: Examen Oficial de Nivel de Lengua Japonesa (JLPT), N4
+      institution: <a href"https://jfmo.org.ph">Fundación Japón</a>
+      year: 2014
+
+    - title: Examen Oficial de Nivel de Lengua Japonesa (JLPT), N5
+      institution: <a href"https://jfmo.org.ph">Fundación Japón</a>
+      year: 2013
+
+- title: Distinciones y premios
+  type: time_table
+  contents:
+    - title: "Beca parcial: Erasmus Mundus Joint Master Degree (EMJMD) QEM Models and Methods of Quantitative Economics (rechacé la oferta)"
+      institution: Programa Erasmus Mundus (<a href="https://master-economics-qem.eu"><b>QEM</b></a>)
+      year: 2019
+
+    - title: Cum laude (con matrícula de honor)
+      institution: Universidad Ateneo de Manila (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2015
+
+    - title: Beca al Mérito San Ignacio de Loyola
+      institution: Universidad Ateneo de Manila (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2011
+
+    - title: Beca al Mérito DOST-SEI (rechacé la oferta)
+      institution: Ministerio de Ciencia y Tecnología, Filipinas (<a href="https://www.dost.gov.ph"><b>DOST</b></a>)
+      year: 2011
+
+    - title: Beca DLSU Star
+      institution: Universidad De La Salle (<a href="https://www.dlsu.edu.ph"><b>DLSU</b></a>)
+      year: 2011
+
+- title: Otras informaciones
   type: map
   contents:
-    - name: Nome Completo
-      value: Albert Einstein
-    - name: Data de Nascimento
-      value: 14 de março de 1879
-    - name: Idiomas
-      value: Inglês, Alemão
-
-- title: Educação
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
-      year: 1905
-      description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
-      year: 1900
-      description:
-        - Descrição 1.
-        - Descrição 2.
-
-- title: Experiência
-  type: time_table
-  contents:
-    - title: Professor de Física Teórica
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Professor Visitante
-      institution: California Institute of Technology, Pasadena, Califórnia, EUA
-      year: 1933
-      description:
-        - Descrição 1.
-        - Descrição 2.
-
-    - title: Diretor
-      institution: Kaiser Wilhelm Institute for Physics, Berlim, Alemanha.
-      year: 1917-1933
-
-    - title: Professor de Física Teórica
-      institution: Karl-Ferdinand University, Praga, Tchecoslováquia
-      year: 1911 - 1917
-      description:
-
-    - title: Professor Associado de Física Teórica
-      institution: University of Zurich, Zurique, Suíça
-      year: 1909 - 1911
-
-- title: Projetos de Código Aberto
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-atual
-      description: Uma variação do tema al-folio com suporte a múltiplos idiomas.
-
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-atual
-      description: Um tema Jekyll bonito, simples, limpo e responsivo para acadêmicos.
-
-- title: Honrarias e Prêmios
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Prêmio Nobel de Física
-        - Medalha Matteucci
-    - year: 2029
-      items:
-        - Medalha Max Planck
-
-- title: Interesses Acadêmicos
-  type: nested_list
-  contents:
-    - title: Tópico 1.
-      items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: Tópico 2.
-      items:
-        - Descrição 1.
-        - Descrição 2.
-
-- title: Outros Interesses
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: Organizaciones
+      value: Miembro de CFA Society Philippines y CFA Society Spain.
+    - name: Intereses
+      value: Leer libros de ficción y de consulta, aprender idiomas, viajar, fotografía, gimnasia

@@ -40,13 +40,13 @@
 - title: Skills
   type: list_groups
   contents:
-    - category: Programing and markup languages
+    - category: Programming and markup languages
       icon: fas fa-code
       items:
         - name: Python
           level: Professional level.
         - name: SQL
-          level: Intermediate level..
+          level: Intermediate level.
         - name: R
           level: Basic level.
         - name: VBA
@@ -104,7 +104,7 @@
         - name: Spanish
           level: Intermediate fluency. B2 level.
         - name: Japanese
-          level: Advanced fluency. JLPT N2.
+          level: Intermediate fluency. JLPT N2.
         - name: Mandarin
           level: Intermediate fluency. HSK Level 3.
         - name: Catalan
