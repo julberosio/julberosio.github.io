@@ -22,7 +22,6 @@ Abridged versions of my selected research articles are available for public view
 <div class="publications">
 
 {%- for section in page.sections %}
-  <a id="{{section.text}}"></a>
   <p class="bibtitle">{{section.text}}</p>
   {%- for y in page.years %}
 
