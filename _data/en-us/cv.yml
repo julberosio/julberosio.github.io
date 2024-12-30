@@ -5,13 +5,6 @@
       institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
       department: Technology, Media and Telecommunications
       year: Jun 2022 - Aug 2024
-      description:
-        - "Authored 200+ research articles for S&P’s subscription-based publications for telecommunications, Wireless Investor and Consumer Insights, focusing on Asia-Pacific"
-        - Formulated industry analysis of mobile markets in Asia-Pacific, including ten-year industry and economic forecast models using financial, regulatory, economic and survey-based data
-        - Cited and interviewed as an industry expert by leading financial publications, such as The Business Times, Business Insider and South China Morning Post
-        - "<b>Topics of expertise</b>: mobile 5G, spectrum, tower and satellite networks, consumer surveys"
-        - "<b>Key skills</b>: financial forecasting, data analysis and modeling, database management, project management, financial research and journalism, public speaking"
-        - Awarded the ACE Bronze Award for exemplary performance (Dec 2017)
 
     - title: Associate Research Analyst
       institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
@@ -71,6 +64,10 @@
           level: Professional level.
         - name: Adobe Creative Suite
           level: Intermediate level.
+        - name: MATLAB
+          level: Intermediate level.
+        - name: Stata
+          level: Intermediate level.
         - name: SPSS/PSPP
           level: Intermediate level.
         - name: Salesforce
@@ -122,32 +119,12 @@
       institution: Barcelona School of Economics (<a href="https://bse.eu"><b>BSE</b></a>)
       year: current
       maindescription:
-        "Degree jointly awarded by Universitat Autònoma de Barcelona and Universitat Pompeu Fabra
-        <br><br>
-        Relevant courses: "
-      description:
-        - Macroeconomics
-        - Financial Economics
-        - Quantitative and Statistical Methods
-        - Panel Data and Duration Models
-        - Advanced Time Series (Nowcasting & Forecasting)
+        "Degree jointly awarded by Universitat Autònoma de Barcelona and Universitat Pompeu Fabra."
     - title: Master of Science in Data Science and Financial Technology
       institution: University of London (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
-      department: <a href="https://www.gold.ac.uk/computing/">Department of Computing, Goldsmiths</a>
       year: 2023
       maindescription:
-        "Relevant courses: "
-      description:
-        - Big Data Analysis
-        - Data Programming in Python
-        - Statistics and Statistical Data Mining
-        - Machine Learning
-        - Blockchain Programming
-        - Financial Markets
-        - Financial Data Modelling
-        - Artificial Intelligence
-        - Natural Language Programming
-        - Neural Networks
+        "Graduated with distinction."
 
     - title: Chartered Financial Analyst (CFA)
       institution: <a href"https://www.cfainstitute.org">CFA Institute</a>
@@ -155,23 +132,12 @@
 
     - title: Bachelor of Science in Management Engineering
       institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
-      department: John Gokongwei School of Management (<a href="https://www.ateneo.edu/jgsom"><b>JGSOM</b></a>)
       year: 2015
       maindescription:
-        "Honours degree programme. Graduated <i>cum laude</i> (with honours).
-        <br><br>
-        Relevant courses:"
-      description:
-        - Mathematics (Mathematical Analysis, Advanced Placement Seminar on Problem Solving Techniques)
-        - Economics (Macroeconomics, Development Economics)
-        - Accounting (Financial, Managerial)
-        - Financial Management
-        - Business Research and Statistical Modelling
-        - Operations Research (Intermediate, Advanced, Modelling Application)
+        "Honours degree programme. Graduated <i>cum laude</i> (with honours)."
 
     - title: Minor Degree in Japanese Studies
       institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
-      department: Japanese Studies Program, School of Social Sciences (<a href="https://www.ateneo.edu/soss/japanese-studies"><b>JSP</b></a>)
       year: 2015
 
 - title: Certifications
@@ -239,5 +205,7 @@
 - title: Other information
   type: map
   contents:
+    - name: Organisations
+      value: Member of CFA Society Philippines and CFA Society Spain.
     - name: Interests
       value: Reading fiction and reference books, learning languages, traveling, photography, gym

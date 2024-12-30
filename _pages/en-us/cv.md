@@ -5,8 +5,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: https://drive.google.com/file/d/1uWe1Wl1YW-qugCkay-OZLGfMTaveig4h/view?usp=sharing # you can also use external links here
-description:
+cv_pdf: OSIO_Julber_Resume_202412.pdf # you can also use external links here
+description: 
 toc:
   sidebar: left
 ---
