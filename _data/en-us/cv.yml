@@ -164,3 +164,81 @@
     - title: DLSU Star Scholarship
       institution: De La Salle University (<a href="https://www.dlsu.edu.ph"><b>DLSU</b></a>)
       year: 2011
+
+- title: Skills
+  type: list_groups
+  contents:
+    - category: Programing and markup languages
+      icon: fas fa-code
+      items:
+        - name: Python
+          level: Professional level.
+        - name: SQL
+          level: Intermediate level..
+        - name: R
+          level: Basic level.
+        - name: VBA
+          level: Basic level.
+        - name: LaTeX
+          level: Advanced level.
+        - name: HTML
+          level: Intermediate level.
+    - category: Software
+      icon: fas fa-window-maximize
+      items:
+        - name: Microsoft Excel
+          level: Professional level.
+        - name: Microsoft Office Suite
+          level: Professional level.
+        - name: Adobe Creative Suite
+          level: Intermediate level.
+        - name: SPSS/PSPP
+          level: Intermediate level.
+        - name: Salesforce
+          level: Professional level.
+        - name: S&P Capital IQ Pro
+          level: Professional level.
+    - category: Machine learning frameworks
+      icon: fas fa-microchip
+      items:
+        - name: Sci-kit learn
+          level: Advanced level.
+        - name: NLTK
+          level: Advanced level.
+        - name: Keras
+          level: Intermediate level.
+        - name: TensorFlow
+          level: Intermediate level.
+        - name: Spark MLlib
+          level: Intermediate level.
+    - category: Big data frameworks
+      icon: fas fa-desktop
+      items:
+        - name: Hadoop MapReduce
+          level: Intermediate level.
+        - name: Apache Spark
+          level: Intermediate level.
+    - category: Spoken languages
+      icon: fas fa-book
+      items:
+        - name: Tagalog
+          level: Native fluency.
+        - name: English
+          level: Professional fluency. IELTS-A 8.5.
+        - name: Spanish
+          level: Intermediate fluency. B2 level.
+        - name: Japanese
+          level: Advanced fluency. JLPT N2.
+        - name: Mandarin
+          level: Intermediate fluency. HSK Level 3.
+        - name: Catalan
+          level: Basic fluency. CPNL Bàsic 3 (A2).
+        - name: Hokkien
+          level: Basic fluency. A1 level.
+
+
+- title: Other information
+  type: map
+  contents:
+    - name: Interests
+      value: Reading fiction and reference books, learning languages, traveling, photography, gym

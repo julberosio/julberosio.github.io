@@ -23,10 +23,12 @@ social: true # includes social icons at the bottom of the page
 
 <h3>Mabuhay!</h3>
 
-As a research analyst with 8+ years of experience in data analytics, data science and financial research, I combine quantitative and qualitative analyses to draw conclusions from raw data and help clients make fact-based business and investment decisions.
+I’m Julber, an economist, data scientist, and financial analyst with a global mindset and a passion for uncovering the stories data can tell. With advanced degrees from the University of London and Barcelona School of Economics, I specialise in econometrics, machine learning, and financial technology—combining analytical precision with strategic vision.
 
-I pioneered the expansion of S&P Global's global wireless research coverage in Asia-Pacific. My research coverage include regulatory and policymaking, industry projections (MNO/MVNO, 5G, towers and small cells) and consumer surveys.
+My research interests focus on macroeconomic policy, financial markets, and the dynamics of global economic systems. I’m particularly fascinated by the use of data science techniques, like time series forecasting and machine learning, to understand market behaviour, economic trends, and the impact of policy changes. Whether it's developing dynamic asset allocation models, analysing financial data, or forecasting macroeconomic shifts, I strive to create insights that inform decision-making and anticipate future challenges.
 
-My research has been cited by some of Asia-Pacific's leading financial publications. I have also been invited as a speaker in several international wireless industry conferences.
+Professionally, I’ve spent over nine years crafting insights that drive strategy. At S&P Global, I’ve authored over 200 research reports, spoken at international conferences, and provided in-depth analysis on industries, markets, and economies. I thrive on tackling complex challenges and turning data into actionable strategies.
 
-Apart from being a research analyst, I also do freelance professional translations. I also enjoy travelling. I have been to 27 countries and territories in Africa, Asia and Europe. I also do amateur photography during my travels.
+Beyond my professional life, I’m a storyteller in other ways. As a freelance translator, I bridge cultures through language, drawing from my proficiency in Tagalog, English, Japanese, Spanish, and more. As an avid traveler, I’ve explored 30+ countries and territories across Africa, Asia, and Europe—each journey fuelling my curiosity and inspiring my lens as an amateur photographer.
+
+Explore, connect, and let’s create something extraordinary together.
