@@ -1,0 +1,211 @@
+- title: Professional research experience
+  type: time_table
+  contents:
+    - title: Research Analyst
+      institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
+      department: Technology, Media and Telecommunications
+      year: Jun 2022 - Aug 2024
+
+    - title: Associate Research Analyst
+      institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
+      department: Technology, Media and Telecommunications
+      year: Sep 2019 - Nov 2021
+
+    - title: Research Associate
+      institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
+      department: Technology, Media and Telecommunications
+      year: Jan 2017 - Aug 2019
+
+- title: Other work experience
+  type: time_table
+  contents:
+    - title: Professional Translator
+      institution: Freelance
+      year: Mar 2018 - Current
+
+    - title: Product Manager
+      institution: S&P Global (<a href"https://www.spglobal.com/en/">S&P</a>)
+      department: Investment Banking and Private Equity
+      year: Nov 2021 - Jun 2022
+
+    - title: Product Operations Analyst
+      institution: S&P Global (<a href"https://www.spglobal.com/en/">S&P</a>)
+      department: Financial Institutions
+      year: May 2015 - Jan 2017
+
+    - title: Power Camp Intern
+      institution: Manila Electric Company (<a href"https://www.meralco.com.ph">MERALCO</a>)
+      year: Apr 2014 - May 2014
+
+- title: Skills
+  type: list_groups
+  contents:
+    - category: Programming and markup languages
+      icon: fas fa-code
+      items:
+        - name: Python
+          level: Professional level.
+        - name: SQL
+          level: Intermediate level.
+        - name: R
+          level: Basic level.
+        - name: VBA
+          level: Basic level.
+        - name: LaTeX
+          level: Advanced level.
+        - name: HTML
+          level: Intermediate level.
+    - category: Software
+      icon: fas fa-window-maximize
+      items:
+        - name: Microsoft Excel
+          level: Professional level.
+        - name: Microsoft Office Suite
+          level: Professional level.
+        - name: Adobe Creative Suite
+          level: Intermediate level.
+        - name: MATLAB
+          level: Intermediate level.
+        - name: Stata
+          level: Intermediate level.
+        - name: SPSS/PSPP
+          level: Intermediate level.
+        - name: Salesforce
+          level: Professional level.
+        - name: S&P Capital IQ Pro
+          level: Professional level.
+    - category: Machine learning frameworks
+      icon: fas fa-microchip
+      items:
+        - name: Sci-kit learn
+          level: Advanced level.
+        - name: NLTK
+          level: Advanced level.
+        - name: Keras
+          level: Intermediate level.
+        - name: TensorFlow
+          level: Intermediate level.
+        - name: Spark MLlib
+          level: Intermediate level.
+    - category: Big data frameworks
+      icon: fas fa-desktop
+      items:
+        - name: Hadoop MapReduce
+          level: Intermediate level.
+        - name: Apache Spark
+          level: Intermediate level.
+    - category: Spoken languages
+      icon: fas fa-book
+      items:
+        - name: Tagalog
+          level: Native fluency.
+        - name: English
+          level: Professional fluency. IELTS-A 8.5.
+        - name: Spanish
+          level: Intermediate fluency. B2 level.
+        - name: Japanese
+          level: Intermediate fluency. JLPT N2.
+        - name: Mandarin
+          level: Intermediate fluency. HSK Level 3.
+        - name: Catalan
+          level: Basic fluency. CPNL Bàsic 3 (A2).
+        - name: Hokkien
+          level: Basic fluency. A1 level.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master in Specialised Economic Analysis, Macroeconomic Policy and Financial Markets Programme
+      institution: Barcelona School of Economics (<a href="https://bse.eu"><b>BSE</b></a>)
+      year: current
+      maindescription:
+        "Degree jointly awarded by Universitat Autònoma de Barcelona and Universitat Pompeu Fabra."
+    - title: Master of Science in Data Science and Financial Technology
+      institution: University of London (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
+      year: 2023
+      maindescription:
+        "Graduated with distinction."
+
+    - title: Chartered Financial Analyst (CFA)
+      institution: <a href"https://www.cfainstitute.org">CFA Institute</a>
+      year: 2022
+
+    - title: Bachelor of Science in Management Engineering
+      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2015
+      maindescription:
+        "Honours degree programme. Graduated <i>cum laude</i> (with honours)."
+
+    - title: Minor Degree in Japanese Studies
+      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2015
+
+- title: Certifications
+  type: time_table
+  contents:
+    - title: Certificat de nivell bàsic de català (A2)
+      institution: <a href"https://www.cpnl.cat">Consorci per a la Normalització Lingüística</a>
+      year: 2024
+
+    - title: Japanese Language Proficiency Test (JLPT), N2
+      institution: <a href"https://jfmo.org.ph">The Japan Foundation</a>
+      year: 2024
+
+    - title: Graduate Record Examination (GRE) General Test (170Q, 164V, 4.5AW)
+      institution: <a href"https://www.britishcouncil.org">British Council</a>
+      year: 2023
+
+    - title: International English Language Testing System (IELTS), Academic Module Band 8.5
+      institution: <a href"https://www.britishcouncil.org">British Council</a>
+      year: 2023
+
+    - title: Hanyu Shuiping Kaoshi (HSK), Level 3
+      institution: Hanban Confucius Institute
+      year: 2019
+
+    - title: International English Language Testing System (IELTS), Academic Module Band 8.0
+      institution: <a href"https://www.britishcouncil.org">British Council</a>
+      year: 2018
+
+    - title: Japanese Language Proficiency Test (JLPT), N3
+      institution: <a href"https://jfmo.org.ph">The Japan Foundation</a>
+      year: 2015
+
+    - title: Japanese Language Proficiency Test (JLPT), N4
+      institution: <a href"https://jfmo.org.ph">The Japan Foundation</a>
+      year: 2014
+
+    - title: Japanese Language Proficiency Test (JLPT), N5
+      institution: <a href"https://jfmo.org.ph">The Japan Foundation</a>
+      year: 2013
+
+- title: Honours and awards
+  type: time_table
+  contents:
+    - title: "Partial scholarship: Erasmus Mundus Joint Master Degree (EMJMD) QEM Models and Methods of Quantitative Economics (declined)"
+      institution: Erasmus Mundus Programme (<a href="https://master-economics-qem.eu"><b>QEM</b></a>)
+      year: 2019
+
+    - title: Cum laude (with honours)
+      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2015
+
+    - title: San Ignacio de Loyola Merit Scholarship Award
+      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2011
+
+    - title: DOST-SEI Merit Scholarship (declined)
+      institution: Department of Science and Technology, Philippines (<a href="https://www.dost.gov.ph"><b>DOST</b></a>)
+      year: 2011
+
+    - title: DLSU Star Scholarship
+      institution: De La Salle University (<a href="https://www.dlsu.edu.ph"><b>DLSU</b></a>)
+      year: 2011
+
+- title: Other information
+  type: map
+  contents:
+    - name: Organisations
+      value: Member of CFA Society Philippines and CFA Society Spain.
+    - name: Interests
+      value: Reading fiction and reference books, learning languages, traveling, photography, gym
