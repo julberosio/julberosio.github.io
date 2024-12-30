@@ -424,25 +424,11 @@ ninja.data = [{
           window.open("mailto:%6A%75%6C%62%65%72%6F%73%69%6F@%79%61%68%6F%6F.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/julberosio", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -457,13 +443,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.spglobal.com/en/who-we-are/about-sp-global/our-people/julber-osio", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
