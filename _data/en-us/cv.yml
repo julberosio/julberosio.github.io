@@ -1,63 +1,4 @@
-- title: Education
-  type: time_table
-  contents:
-    - title: Master in Specialised Economic Analysis, Macroeconomic Policy and Financial Markets Programme
-      institution: Barcelona School of Economics (<a href="https://bse.eu"><b>BSE</b></a>)
-      year: current
-      maindescription:
-        "Degree jointly awarded by Universitat Autònoma de Barcelona and Universitat Pompeu Fabra
-        <br><br>
-        Relevant courses: "
-      description:
-        - Macroeconomics
-        - Financial Economics
-        - Quantitative and Statistical Methods
-        - Panel Data and Duration Models
-        - Advanced Time Series (Nowcasting & Forecasting)
-    - title: Master of Science in Data Science and Financial Technology
-      institution: University of London (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
-      department: <a href="https://www.gold.ac.uk/computing/">Department of Computing, Goldsmiths</a>
-      year: 2023
-      maindescription:
-        "Relevant courses: "
-      description:
-        - Big Data Analysis
-        - Data Programming in Python
-        - Statistics and Statistical Data Mining
-        - Machine Learning
-        - Blockchain Programming
-        - Financial Markets
-        - Financial Data Modelling
-        - Artificial Intelligence
-        - Natural Language Programming
-        - Neural Networks
-
-    - title: Chartered Financial Analyst (CFA)
-      institution: <a href"https://www.cfainstitute.org">CFA Institute</a>
-      year: 2022
-
-    - title: Bachelor of Science in Management Engineering
-      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
-      department: John Gokongwei School of Management (<a href="https://www.ateneo.edu/jgsom"><b>JGSOM</b></a>)
-      year: 2015
-      maindescription:
-        "Honours degree programme. Graduated <i>cum laude</i> (with honours).
-        <br><br>
-        Relevant courses:"
-      description:
-        - Mathematics (Mathematical Analysis, Advanced Placement Seminar on Problem Solving Techniques)
-        - Economics (Macroeconomics, Development Economics)
-        - Accounting (Financial, Managerial)
-        - Financial Management
-        - Business Research and Statistical Modelling
-        - Operations Research (Intermediate, Advanced, Modelling Application)
-
-    - title: Minor Degree in Japanese Studies
-      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
-      department: Japanese Studies Program, School of Social Sciences (<a href="https://www.ateneo.edu/soss/japanese-studies"><b>JSP</b></a>)
-      year: 2015
-
-- title: Research experience
+- title: Professional research experience
   type: time_table
   contents:
     - title: Research Analyst
@@ -65,12 +6,11 @@
       department: Technology, Media and Telecommunications
       year: Jun 2022 - Aug 2024
       description:
-        - "Authored 200+ research articles for S&P’s subscription-based publications for telecommunications, Wireless Investor and Consumer Insights, focusing on Asia-Pacific"
-        - Formulated industry analysis of mobile markets in Asia-Pacific, including ten-year industry and economic forecast models using financial, regulatory, economic and survey-based data
+        -	Published 200+ research reports covering the telecommunications industry in Asia-Pacific, focusing on market sizing, ten-year industry and macroeconomic forecast models, competitive analysis (including M&A), spectrum auctions and allocation, 5G pricing, monetization and strategy, and regulation and policymaking
+        - Presented at MVNOs World Congress 2023 (Amsterdam, Netherlands), Telecoms World Asia 2019 (Bangkok, Thailand), MWC Shanghai 2018 (Shanghai, PRC).
         - Cited and interviewed as an industry expert by leading financial publications, such as The Business Times, Business Insider and South China Morning Post
         - "<b>Topics of expertise</b>: mobile 5G, spectrum, tower and satellite networks, consumer surveys"
-        - "<b>Key skills</b>: financial forecasting, data analysis and modeling, database management, project management, financial research and journalism, public speaking"
-        - Awarded the ACE Bronze Award for exemplary performance (Dec 2017)
+        - "<b>Key skills</b>: data analysis and visualization, economic and financial modeling, time series projection, public speaking
 
     - title: Associate Research Analyst
       institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
@@ -93,15 +33,155 @@
       institution: S&P Global (<a href"https://www.spglobal.com/en/">S&P</a>)
       department: Investment Banking and Private Equity
       year: Nov 2021 - Jun 2022
+      description:
+        -	Published quarterly reports covering key investment trends for S&P’s investment banking and private equity clients. Analyses include global and regional M&A deals, equity markets issuance (including IPOs and SPAC IPOs), and leveraged buyout (LBO) deals, and investor activism campaigns
+        - Benchmarked product capabilities with competitors. Contributed to thought leadership and strategy development.
+        - "<b>Key skills</b>: financial research, data analysis and visualization, database management, capital markets
 
     - title: Product Operations Analyst
       institution: S&P Global (<a href"https://www.spglobal.com/en/">S&P</a>)
       department: Financial Institutions
       year: May 2015 - Jan 2017
+      description:
+        - Created industry and company financial models and analyses for SNL Financial’s C-suite banking and insurance clients, focusing on Basel III Accord compliance and bank M&A analysis using HHI horizontal merger guidelines
+        - "<b>Key skills</b>: data analysis, financial modeling, accounting (IFRS, US GAAP)
 
     - title: Power Camp Intern
       institution: Manila Electric Company (<a href"https://www.meralco.com.ph">MERALCO</a>)
       year: Apr 2014 - May 2014
+
+- title: Skills
+  type: list_groups
+  contents:
+    - category: Programing and markup languages
+      icon: fas fa-code
+      items:
+        - name: Python
+          level: Professional level.
+        - name: SQL
+          level: Intermediate level..
+        - name: R
+          level: Basic level.
+        - name: VBA
+          level: Basic level.
+        - name: LaTeX
+          level: Advanced level.
+        - name: HTML
+          level: Intermediate level.
+    - category: Software
+      icon: fas fa-window-maximize
+      items:
+        - name: Microsoft Excel
+          level: Professional level.
+        - name: Microsoft Office Suite
+          level: Professional level.
+        - name: MATLAB
+          level: Professional level.
+        - name: Stata
+          level: Intermediate level.
+        - name: SPSS/PSPP
+          level: Intermediate level.
+        - name: WinCross
+          level: Intermediate level.
+        - name: Salesforce
+          level: Professional level.
+        - name: S&P Capital IQ Pro
+          level: Professional level.
+    - category: Machine learning frameworks
+      icon: fas fa-microchip
+      items:
+        - name: Sci-kit learn
+          level: Advanced level.
+        - name: NLTK
+          level: Advanced level.
+        - name: Keras
+          level: Intermediate level.
+        - name: TensorFlow
+          level: Intermediate level.
+        - name: Spark MLlib
+          level: Intermediate level.
+    - category: Big data frameworks
+      icon: fas fa-desktop
+      items:
+        - name: Hadoop MapReduce
+          level: Intermediate level.
+        - name: Apache Spark
+          level: Intermediate level.
+    - category: Spoken languages
+      icon: fas fa-book
+      items:
+        - name: Tagalog
+          level: Native fluency.
+        - name: English
+          level: Professional fluency. IELTS-A 8.5.
+        - name: Spanish
+          level: Intermediate fluency. B2 level.
+        - name: Japanese
+          level: Advanced fluency. JLPT N2.
+        - name: Mandarin
+          level: Intermediate fluency. HSK Level 3.
+        - name: Catalan
+          level: Basic fluency. CPNL Bàsic 3 (A2).
+        - name: Hokkien
+          level: Basic fluency. A1 level.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master in Specialised Economic Analysis, Macroeconomic Policy and Financial Markets Programme
+      institution: Barcelona School of Economics (<a href="https://bse.eu"><b>BSE</b></a>)
+      year: current
+      maindescription:
+        "Degree jointly awarded by Universitat Autònoma de Barcelona and Universitat Pompeu Fabra
+        <br><br>
+        Relevant courses: "
+      description:
+        - Macroeconomics
+        - Financial Economics
+        - Quantitative and Statistical Methods
+        - Panel Data and Duration Models
+        - Advanced Time Series (Nowcasting & Forecasting)
+    - title: Master of Science in Data Science and Financial Technology
+      institution: University of London (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
+      year: 2023
+      maindescription:
+        "Graduated with distinction.
+        <br><br>
+        Relevant courses: "
+      description:
+        - Big Data Analysis
+        - Data Programming in Python
+        - Statistics and Statistical Data Mining
+        - Machine Learning
+        - Blockchain Programming
+        - Financial Markets
+        - Financial Data Modelling
+        - Artificial Intelligence
+        - Natural Language Programming
+        - Neural Networks
+
+    - title: Chartered Financial Analyst (CFA)
+      institution: <a href"https://www.cfainstitute.org">CFA Institute</a>
+      year: 2022
+
+    - title: Bachelor of Science in Management Engineering
+      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2015
+      maindescription:
+        "Honours degree programme. Graduated <i>cum laude</i> (with honours, top 8%).
+        <br><br>
+        Relevant courses:"
+      description:
+        - Mathematics (Mathematical Analysis, Advanced Placement Seminar on Problem Solving Techniques)
+        - Economics (Macroeconomics, Development Economics)
+        - Accounting (Financial, Managerial)
+        - Financial Management
+        - Business Research and Statistical Modelling
+        - Operations Research (Intermediate, Advanced, Modelling Application)
+
+    - title: Minor Degree in Japanese Studies
+      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      year: 2015
 
 - title: Certifications
   type: time_table
@@ -165,80 +245,10 @@
       institution: De La Salle University (<a href="https://www.dlsu.edu.ph"><b>DLSU</b></a>)
       year: 2011
 
-- title: Skills
-  type: list_groups
-  contents:
-    - category: Programing and markup languages
-      icon: fas fa-code
-      items:
-        - name: Python
-          level: Professional level.
-        - name: SQL
-          level: Intermediate level..
-        - name: R
-          level: Basic level.
-        - name: VBA
-          level: Basic level.
-        - name: LaTeX
-          level: Advanced level.
-        - name: HTML
-          level: Intermediate level.
-    - category: Software
-      icon: fas fa-window-maximize
-      items:
-        - name: Microsoft Excel
-          level: Professional level.
-        - name: Microsoft Office Suite
-          level: Professional level.
-        - name: Adobe Creative Suite
-          level: Intermediate level.
-        - name: SPSS/PSPP
-          level: Intermediate level.
-        - name: Salesforce
-          level: Professional level.
-        - name: S&P Capital IQ Pro
-          level: Professional level.
-    - category: Machine learning frameworks
-      icon: fas fa-microchip
-      items:
-        - name: Sci-kit learn
-          level: Advanced level.
-        - name: NLTK
-          level: Advanced level.
-        - name: Keras
-          level: Intermediate level.
-        - name: TensorFlow
-          level: Intermediate level.
-        - name: Spark MLlib
-          level: Intermediate level.
-    - category: Big data frameworks
-      icon: fas fa-desktop
-      items:
-        - name: Hadoop MapReduce
-          level: Intermediate level.
-        - name: Apache Spark
-          level: Intermediate level.
-    - category: Spoken languages
-      icon: fas fa-book
-      items:
-        - name: Tagalog
-          level: Native fluency.
-        - name: English
-          level: Professional fluency. IELTS-A 8.5.
-        - name: Spanish
-          level: Intermediate fluency. B2 level.
-        - name: Japanese
-          level: Advanced fluency. JLPT N2.
-        - name: Mandarin
-          level: Intermediate fluency. HSK Level 3.
-        - name: Catalan
-          level: Basic fluency. CPNL Bàsic 3 (A2).
-        - name: Hokkien
-          level: Basic fluency. A1 level.
-
-
 - title: Other information
   type: map
   contents:
+    - name: Organisations
+      value: Member of CFA Society Philippines and CFA Society Spain
     - name: Interests
       value: Reading fiction and reference books, learning languages, traveling, photography, gym
