@@ -9,22 +9,22 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
+  },{id: "nav-履歴書",
+          title: "履歴書",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-publications",
-          title: "publications",
+        },{id: "nav-論文",
+          title: "論文",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
+        },{id: "nav-リポジトリ",
+          title: "リポジトリ",
           description: "",
           section: "Navigation",
           handler: () => {
