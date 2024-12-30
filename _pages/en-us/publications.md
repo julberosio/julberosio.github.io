@@ -9,7 +9,9 @@ sections:
 #  - bibquery: "@article"
 #    text: "Non-academic publications"
   - bibquery: "@misc|@phdthesis|@mastersthesis"
-  - bibquery: "@InProceedings"
+    text: " "
+  - bibquery: "@InProceedings|@online"
+    text: " "
 
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
@@ -22,6 +24,7 @@ Abridged versions of my selected research articles are available for public view
 <div class="publications">
 
 {%- for section in page.sections %}
+  <a id="{{section.text}}"></a>
   <p class="bibtitle">{{section.text}}</p>
   {%- for y in page.years %}
 
