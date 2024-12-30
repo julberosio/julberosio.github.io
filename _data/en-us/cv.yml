@@ -1,32 +1,59 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master in Specialised Economic Analysis: Macroeconomic Policy and Financial Markets Programme
+      institution: Barcelona School of Economics (<a href="https://bse.eu"><b>BSE</b></a>)
+      year: current
+      maindescription:
+        "Relevant courses: "
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Macroeconomics
+        - Financial Economics
+        - Quantitative and Statistical Methods
+        - Panel Data and Duration Models
+        - Advanced Time Series (Nowcasting & Forecasting)
+    - title: Master of Science in Data Science and Financial Technology
+      institution: University of London (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
+      department: <a href="https://www.gold.ac.uk/computing/">Department of Computing, Goldsmiths</a>
+      year: 2023
+      maindescription:
+        "Relevant courses: "
       description:
-        - Description 1.
-        - Description 2.
+        - Big Data Analysis
+        - Data Programming in Python
+        - Statistics and Statistical Data Mining
+        - Machine Learning
+        - Blockchain Programming
+        - Financial Markets
+        - Financial Data Modelling
+        - Artificial Intelligence
+        - Natural Language Programming
+        - Neural Networks
+
+    - title: Chartered Financial Analyst (CFA)
+      institution: <a href"https://www.cfainstitute.org">CFA Institute</a>
+      year: 2022
+
+    - title: Bachelor of Science in Management Engineering
+      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      department: John Gokongwei School of Management (<a href="https://www.ateneo.edu/jgsom"><b>JGSOM</b></a>)
+      year: 2015
+      maindescription:
+        "Honours degree programme. Graduated <i>cum laude</i> (with honours).
+        <br><br>
+        Relevant courses:"
+      description:
+        - Mathematics (Mathematical Analysis, Advanced Placement Seminar on Problem Solving Techniques)
+        - Economics (Macroeconomics, Development Economics)
+        - Accounting (Financial, Managerial)
+        - Financial Management
+        - Business Research and Statistical Modelling
+        - Operations Research (Intermediate, Advanced, Modelling Application)
+
+    - title: Minor Degree in Japanese Studies
+      institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      department: Japanese Studies Program, School of Social Sciences (<a href="https://www.ateneo.edu/soss/japanese-studies"><b>JSP</b></a>)
+      year: 2015
 
 - title: Experience
   type: time_table

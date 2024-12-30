@@ -14,9 +14,6 @@ profile:
   align: right
   image: photo-73_73.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>julber(dot)osio (at) bse(dot)eu</p>
-    <p>Barcelona, Catalunya</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
