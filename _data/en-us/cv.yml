@@ -6,11 +6,12 @@
       department: Technology, Media and Telecommunications
       year: Jun 2022 - Aug 2024
       description:
-        -	Published 200+ research reports covering the telecommunications industry in Asia-Pacific, focusing on market sizing, ten-year industry and macroeconomic forecast models, competitive analysis (including M&A), spectrum auctions and allocation, 5G pricing, monetization and strategy, and regulation and policymaking
-        - Presented at MVNOs World Congress 2023 (Amsterdam, Netherlands), Telecoms World Asia 2019 (Bangkok, Thailand), MWC Shanghai 2018 (Shanghai, PRC).
+        - "Authored 200+ research articles for S&P’s subscription-based publications for telecommunications, Wireless Investor and Consumer Insights, focusing on Asia-Pacific"
+        - Formulated industry analysis of mobile markets in Asia-Pacific, including ten-year industry and economic forecast models using financial, regulatory, economic and survey-based data
         - Cited and interviewed as an industry expert by leading financial publications, such as The Business Times, Business Insider and South China Morning Post
         - "<b>Topics of expertise</b>: mobile 5G, spectrum, tower and satellite networks, consumer surveys"
-        - "<b>Key skills</b>: data analysis and visualization, economic and financial modeling, time series projection, public speaking"
+        - "<b>Key skills</b>: financial forecasting, data analysis and modeling, database management, project management, financial research and journalism, public speaking"
+        - Awarded the ACE Bronze Award for exemplary performance (Dec 2017)
 
     - title: Associate Research Analyst
       institution: S&P Global (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
@@ -33,18 +34,11 @@
       institution: S&P Global (<a href"https://www.spglobal.com/en/">S&P</a>)
       department: Investment Banking and Private Equity
       year: Nov 2021 - Jun 2022
-      description:
-        -	Published quarterly reports covering key investment trends for S&P’s investment banking and private equity clients. Analyses include global and regional M&A deals, equity markets issuance (including IPOs and SPAC IPOs), and leveraged buyout (LBO) deals, and investor activism campaigns
-        - Benchmarked product capabilities with competitors. Contributed to thought leadership and strategy development.
-        - "<b>Key skills</b>: financial research, data analysis and visualization, database management, capital markets"
 
     - title: Product Operations Analyst
       institution: S&P Global (<a href"https://www.spglobal.com/en/">S&P</a>)
       department: Financial Institutions
       year: May 2015 - Jan 2017
-      description:
-        - Created industry and company financial models and analyses for SNL Financial’s C-suite banking and insurance clients, focusing on Basel III Accord compliance and bank M&A analysis using HHI horizontal merger guidelines
-        - "<b>Key skills</b>: data analysis, financial modeling, accounting (IFRS, US GAAP)"
 
     - title: Power Camp Intern
       institution: Manila Electric Company (<a href"https://www.meralco.com.ph">MERALCO</a>)
@@ -75,13 +69,9 @@
           level: Professional level.
         - name: Microsoft Office Suite
           level: Professional level.
-        - name: MATLAB
-          level: Professional level.
-        - name: Stata
+        - name: Adobe Creative Suite
           level: Intermediate level.
         - name: SPSS/PSPP
-          level: Intermediate level.
-        - name: WinCross
           level: Intermediate level.
         - name: Salesforce
           level: Professional level.
@@ -143,11 +133,10 @@
         - Advanced Time Series (Nowcasting & Forecasting)
     - title: Master of Science in Data Science and Financial Technology
       institution: University of London (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
+      department: <a href="https://www.gold.ac.uk/computing/">Department of Computing, Goldsmiths</a>
       year: 2023
       maindescription:
-        "Graduated with distinction.
-        <br><br>
-        Relevant courses: "
+        "Relevant courses: "
       description:
         - Big Data Analysis
         - Data Programming in Python
@@ -166,9 +155,10 @@
 
     - title: Bachelor of Science in Management Engineering
       institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      department: John Gokongwei School of Management (<a href="https://www.ateneo.edu/jgsom"><b>JGSOM</b></a>)
       year: 2015
       maindescription:
-        "Honours degree programme. Graduated <i>cum laude</i> (with honours, top 8%).
+        "Honours degree programme. Graduated <i>cum laude</i> (with honours).
         <br><br>
         Relevant courses:"
       description:
@@ -181,6 +171,7 @@
 
     - title: Minor Degree in Japanese Studies
       institution: Ateneo de Manila University (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
+      department: Japanese Studies Program, School of Social Sciences (<a href="https://www.ateneo.edu/soss/japanese-studies"><b>JSP</b></a>)
       year: 2015
 
 - title: Certifications
@@ -248,7 +239,5 @@
 - title: Other information
   type: map
   contents:
-    - name: Organisations
-      value: Member of CFA Society Philippines and CFA Society Spain
     - name: Interests
       value: Reading fiction and reference books, learning languages, traveling, photography, gym
