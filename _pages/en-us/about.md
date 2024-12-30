@@ -27,8 +27,8 @@ I’m Julber, an economist, data scientist, and financial analyst with a global 
 
 My research interests focus on macroeconomic policy, financial markets, and the dynamics of global economic systems. I’m particularly fascinated by the use of data science techniques, like time series forecasting and machine learning, to understand market behaviour, economic trends, and the impact of policy changes. Whether it's developing dynamic asset allocation models, analysing financial data, or forecasting macroeconomic shifts, I strive to create insights that inform decision-making and anticipate future challenges.
 
-Professionally, I’ve spent over nine years crafting insights that drive strategy. At S&P Global, I’ve authored over 200 research reports, spoken at international conferences, and provided in-depth analysis on industries, markets, and economies. I thrive on tackling complex challenges and turning data into actionable strategies.
+Professionally, I've built my career on using research to transform data into actionable insights. In my over nine years of stay at S&P Global, I’ve authored research reports, spoken at international conferences, and provided in-depth analysis on the TMT industry of Asia-Pacific markets for our clients.
 
-Beyond my professional life, I’m a storyteller in other ways. As a freelance translator, I bridge cultures through language, drawing from my proficiency in Tagalog, English, Japanese, Spanish, and more. As an avid traveler, I’ve explored 30+ countries and territories across Africa, Asia, and Europe—each journey fuelling my curiosity and inspiring my lens as an amateur photographer.
+Beyond my professional life, I’m a storyteller in other ways. As a freelance translator, I bridge cultures through language, drawing from my proficiency in Tagalog, English, Japanese, Spanish, and more. As an avid traveler, I’ve explored 30+ countries and territories, with each journey fuelling my curiosity and inspiring my lens as an amateur photographer.
 
 Explore, connect, and let’s create something extraordinary together.

@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+MVNOs:
+  url: https://tmt.knect365.com/mvnos-world-congress/
 
-"PhysRev":
-  url: https://journals.aps.org/
+MWC:
+  url: https://www.mwcshanghai.com
 
-"Vision":
-  color: "#009f36"
+TWA:
+  url: https://www.terrapinn.com/conference/telecoms-world-asia/index.stm
+
+S&P:
+  url: https://www.spglobal.com/
+
+SCMP:
+  url: https://www.scmp.com
+
+BusinessTimes:
+  url: https://www.businesstimes.com.sg
+
+CapacityMedia:
+  https://www.capacitymedia.com
+
+InsideTowers:
+  https://insidetowers.com
