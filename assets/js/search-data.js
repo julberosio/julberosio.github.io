@@ -25,17 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-submenus",
-          title: "submenus",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/en-us/dropdown/";
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-image-galleries",
       
