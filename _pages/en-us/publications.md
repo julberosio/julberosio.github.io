@@ -9,11 +9,7 @@ sections:
 #  - bibquery: "@article"
 #    text: "Non-academic publications"
   - bibquery: "@misc|@phdthesis|@mastersthesis"
-    text: "Thesis and dissertations"
-  - bibquery: "@inbook"
-    text: "Research reports"
-  - bibquery: "@technicalreport"
-    text: "Data books"
+  - bibquery: "@InProceedings"
 
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
