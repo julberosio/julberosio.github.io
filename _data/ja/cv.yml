@@ -4,38 +4,38 @@
     - title: リサーチ・アナリスト
       institution: S&Pグローバル (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
       department: テクノロジー、メディア、テレコミュニケーション
-      year: Jun 2022 - Aug 2024
+      year: 2022年6月〜2024年8月
 
     - title: アソシエイト・リサーチ・アナリスト
       institution: S&Pグローバル (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
       department: テクノロジー、メディア、テレコミュニケーション
-      year: Sep 2019 - Nov 2021
+      year: 2019年9月〜2021年11月
 
     - title: リサーチ・アソシエイト
       institution: S&Pグローバル (<a href"https://www.spglobal.com/marketintelligence/contributors/115275/julber-osio">S&P</a>)
       department: テクノロジー、メディア、テレコミュニケーション
-      year: Jan 2017 - Aug 2019
+      year: 2017年1月〜2019年8月
 
 - title: その他の職務経験
   type: time_table
   contents:
     - title: プロフェッショナル翻訳者
       institution: フリーランス
-      year: Mar 2018 - Current
+      year: 2018年3月～現在
 
     - title: プロダクト・マネージャー
       institution: S&Pグローバル (<a href"https://www.spglobal.com/en/">S&P</a>)
       department: インベストメント・バンキングおよびプライベート・エクイティ
-      year: Nov 2021 - Jun 2022
+      year: 2021年11月～2022年6月
 
     - title: プロダクト・オペレーション・アナリスト
       institution: S&Pグローバル (<a href"https://www.spglobal.com/en/">S&P</a>)
       department: 金融機関
-      year: May 2015 - Jan 2017
+      year: 2015年5月～2017年1月
 
     - title: Power Camp インターン
       institution: マニラ電力 (<a href"https://www.meralco.com.ph">MERALCO</a>)
-      year: Apr 2014 - May 2014
+      year: 2014年4月～2014年5月
 
 - title: 技能
   type: list_groups
@@ -58,11 +58,11 @@
     - category: ソフトウェア
       icon: fas fa-window-maximize
       items:
-        - name: Microsoft Excel
+        - name: マイクロソフト・エクセル
           level: 専門職レベル
-        - name: Microsoft Office Suite
+        - name: マイクロソフト・オフィス・スイート
           level: 専門職レベル
-        - name: Adobe Creative Suite
+        - name: アドビ・クリエイティブ・スイート
           level: 中級レベル
         - name: MATLAB
           level: 中級レベル
@@ -115,91 +115,91 @@
 - title: 教育
   type: time_table
   contents:
-    - title: Master in Specialised Economic Analysis, Macroeconomic Policy and Financial Markets Programme
+    - title: 専門経済分析修士（マクロ経済政策および金融市場プログラム）
       institution: バルセロナ経済学校 (<a href="https://bse.eu"><b>BSE</b></a>)
       year: current
       maindescription:
-        "Degree jointly awarded by Universitat Autònoma de Barcelona and Universitat Pompeu Fabra."
-    - title: Master of Science in Data Science and Financial Technology
-      institution: University of London (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
+        "バルセロナ自治大学とポンペウ・ファブラ大学が共同で授与する学位"
+    - title: データサイエンスおよび金融テクノロジー理学修士
+      institution: ロンドン大学 (<a href="https://www.london.ac.uk"><b>UoL</b></a>)
       year: 2023
       maindescription:
-        "Graduated with distinction."
+        "優秀な成績で卒業"
 
     - title: Chartered Financial Analyst (CFA)
       institution: <a href"https://www.cfainstitute.org">CFA Institute</a>
       year: 2022
 
-    - title: Bachelor of Science in Management Engineering
+    - title: 経営工学理学士
       institution: アテネオ・デ・マニラ大学 (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
       year: 2015
       maindescription:
-        "Honours degree programme. Graduated <i>cum laude</i> (with honours)."
+        "優等学位プログラム 優等で卒業"
 
-    - title: Minor Degree in Japanese Studies
+    - title: 日本研究副専攻
       institution: アテネオ・デ・マニラ大学 (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
       year: 2015
 
 - title: 認証
   type: time_table
   contents:
-    - title: Certificat de nivell bàsic de català (A2)
+    - title: カタルーニャ語基礎証明書（A2）
       institution: <a href"https://www.cpnl.cat">Consorci per a la Normalització Lingüística</a>
       year: 2024
 
-    - title: 日本御能力試験 (JLPT), N2
+    - title: 日本語能力試験 (JLPT), N2
       institution: <a href"https://jfmo.org.ph">国際交流基金</a>
       year: 2024
 
-    - title: Graduate Record Examination (GRE) General Test (170Q, 164V, 4.5AW)
-      institution: <a href"https://www.britishcouncil.org">British Council</a>
+    - title: 大学院記録試験（GRE）一般テスト（170Q、164V、4.5AW)
+      institution: <a href"https://www.ets.org">教育試験サービス</a>
       year: 2023
 
-    - title: International English Language Testing System (IELTS), Academic Module Band 8.5
-      institution: <a href"https://www.britishcouncil.org">British Council</a>
+    - title: 国際英語能力試験（IELTS）アカデミックモジュール バンド 8.5
+      institution: <a href"https://www.britishcouncil.org">ブリティッシュ・カウンシル</a>
       year: 2023
 
-    - title: Hanyu Shuiping Kaoshi (HSK), Level 3
-      institution: Hanban Confucius Institute
+    - title: 漢語水平考試（HSK）3級
+      institution: 漢辦孔子学院
       year: 2019
 
-    - title: International English Language Testing System (IELTS), Academic Module Band 8.0
-      institution: <a href"https://www.britishcouncil.org">British Council</a>
+    - title: 国際英語能力試験（IELTS）アカデミックモジュール バンド 8.0
+      institution: <a href"https://www.britishcouncil.org">ブリティッシュ・カウンシル</a>
       year: 2018
 
-    - title: 日本御能力試験 (JLPT), N3
+    - title: 日本語能力試験 (JLPT), N3
       institution: <a href"https://jfmo.org.ph">国際交流基金</a>
       year: 2015
 
-    - title: 日本御能力試験 (JLPT), N4
+    - title: 日本語能力試験 (JLPT), N4
       institution: <a href"https://jfmo.org.ph">国際交流基金</a>
       year: 2014
 
-    - title: 日本御能力試験 (JLPT), N5
+    - title: 日本語能力試験 (JLPT), N5
       institution: <a href"https://jfmo.org.ph">国際交流基金</a>
       year: 2013
 
 - title: 栄誉と受賞
   type: time_table
   contents:
-    - title: "Partial scholarship: Erasmus Mundus Joint Master Degree (EMJMD) QEM Models and Methods of Quantitative Economics (declined)"
-      institution: Erasmus Mundus Programme (<a href="https://master-economics-qem.eu"><b>QEM</b></a>)
+    - title: "部分奨学金：エラスムス・ムンドゥス共同修士号（EMJMD）QEM定量経済学のモデルと方法（辞退）"
+      institution: エラスムス・ムンドゥスプログラム (<a href="https://master-economics-qem.eu"><b>QEM</b></a>)
       year: 2019
 
-    - title: Cum laude (with honours)
+    - title: 優等で卒業
       institution: アテネオ・デ・マニラ大学 (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
       year: 2015
 
-    - title: San Ignacio de Loyola Merit Scholarship Award
+    - title: サン・イグナシオ・デ・ロヨラ優秀奨学金賞
       institution: アテネオ・デ・マニラ大学 (<a href="https://www.ateneo.edu"><b>AdMU</b></a>)
       year: 2011
 
-    - title: DOST-SEI Merit Scholarship (declined)
-      institution: Department of Science and Technology, Philippines (<a href="https://www.dost.gov.ph"><b>DOST</b></a>)
+    - title: DOST-SEI 優秀奨学金（辞退）
+      institution: フィリピン科学技術省 (<a href="https://www.dost.gov.ph"><b>DOST</b></a>)
       year: 2011
 
-    - title: DLSU Star Scholarship
-      institution: De La Salle University (<a href="https://www.dlsu.edu.ph"><b>DLSU</b></a>)
+    - title: DLSUスター奨学金
+      institution: デ・ラ・サール大学 (<a href="https://www.dlsu.edu.ph"><b>DLSU</b></a>)
       year: 2011
 
 - title: その他の情報
